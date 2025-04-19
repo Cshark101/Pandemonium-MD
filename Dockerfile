@@ -1,7 +1,23 @@
 FROM node:lts-buster
-RUN git clone https://github.com/Cshark101/Pandemonium-MD /root/ikmalvin
-WORKDIR /root/ikmalvin
-RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
+
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  npm i pm2 -g && \
+  rm -rf /var/lib/apt/lists/*
+  
+RUN gitclone https://github.com/Cshark101/Pandemonium-MD
+
+
+COPY package.json .
+RUN npm install pm2 -g
+RUN npm install --legacy-peer-deps
+
 COPY . .
-EXPOSE 9090
-CMD ["npm", "start"]
+
+EXPOSE 3000
+
+CMD ["npm","start" ]
