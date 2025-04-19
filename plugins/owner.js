@@ -26,7 +26,7 @@ let dec = `*👋 Hello ${pushname}*
 *⚡Owner name -: Cshark101*
 *⚡Number* -: +2348101668050*
 
- ⚡️◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3
+ ⚡️◦ https://whatsapp.com/channel/0029Vb57lQd65yDDLC2hGL3I
 
 > *Powered by Cshark101*
 `;
@@ -51,12 +51,12 @@ try{
 
 let dec = `*📍ℝ𝔼ℙ𝕆-𝕃𝕀ℕ𝕂 ❤️‍🔥👇*
 
-👨‍💻◦https://github.com/your github username/Botname
+👨‍💻◦https://github.com/Cshark101/Pandemonium-MD
 
 
 *📍ℙ𝕃𝔼𝔸𝕊𝔼 𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝕐 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃 ❤️‍🔥👇*
 
-👨‍💻◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+👨‍💻◦ https://whatsapp.com/channel/0029Vb57lQd65yDDLC2hGL3I
 
 > *Powered by Cshark101*
 `;
