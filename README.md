@@ -30,8 +30,6 @@
 <a><img src='https://i.imgur.com/w1AG3gU.gif'/>
 
 
-<a><img src='https://i.imgur.com/w1AG3gU.gif'/>
-
 2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
 
