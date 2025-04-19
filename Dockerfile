@@ -9,10 +9,9 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN gitclone https://github.com/Cshark101/Pandemonium-MD
-
-
 COPY package.json .
+
+
 RUN npm install pm2 -g
 RUN npm install --legacy-peer-deps
 
@@ -20,4 +19,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["npm","start" ]
+CMD ["node","index.js" ]
