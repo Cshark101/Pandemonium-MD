@@ -23,8 +23,8 @@ let dec = `*👋 Hello ${pushname}*
 
 > *𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢* 
 
-*⚡Owner name -: your name*
-*⚡Number* -: your number
+*⚡Owner name -: Cshark101*
+*⚡Number* -: +2348101668050*
 
  ⚡️◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3
 
