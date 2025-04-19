@@ -1,6 +1,6 @@
 # PANDEMONIUM-MD
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src='https://i.imgur.com/w1AG3gU.gif" height="90" width="100%">
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 Cshark101 🌝💚
 <div class = "repo" align = "center">
  
@@ -28,10 +28,10 @@
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://i.imgur.com/w1AG3gU.gif'/>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://i.imgur.com/w1AG3gU.gif'/>
 
 2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
@@ -99,7 +99,7 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF PANDEMONIUM-MD 
-- [Lord Malvin ](https://github.com/Cshark101)
+- [Anime God ](https://github.com/Cshark101)
 - Creater and Owner Of Pandemonium-MD
 
 > Pandemonium-MD Helper
